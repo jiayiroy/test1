@@ -9,7 +9,7 @@
 </head>
 <body>
 <form action="login">
-	jiajia：<input id="username" name="username" type="text"></input><br>
+	jiajiajia：<input id="username" name="username" type="text"></input><br>
 	passwd：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
